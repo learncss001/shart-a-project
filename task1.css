@@ -1,0 +1,10 @@
+﻿.box>div {
+	width: 30%;
+	padding-bottom: 30%;
+	border: 1% solid #FF9900;
+	margin: 1%;
+	border-radius: 5%;
+	float: left;
+
+	background: #FF9900;
+}
